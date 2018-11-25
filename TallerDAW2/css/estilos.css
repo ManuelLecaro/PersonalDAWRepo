@@ -2,3 +2,16 @@ div.rsstweets{
   border-radius: 1em;
   border-color: #42bcf4;
 }
+
+.author{
+  font-weight: bold;
+}
+
+.content_tweet{
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+.dateTweet{
+  font-style: italic;
+}
